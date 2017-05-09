@@ -41,10 +41,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="..\LICENSE">
+      <Link>Resources\LICENSE</Link>
+    </None>
     <None Include="HTMLApplicationWithTypeScript.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="Resources\LICENSE" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
