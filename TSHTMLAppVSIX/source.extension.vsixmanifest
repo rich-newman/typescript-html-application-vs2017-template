@@ -4,6 +4,7 @@
     <Identity Id="bf5fe51b-621f-4f83-9e30-59ac45da0494" Version="1.0" Language="en-US" Publisher="Rich Newman" />
     <DisplayName>TypeScript HTML Application Template</DisplayName>
     <Description xml:space="preserve">Provides a project template for an HTML application with TypeScript.  This is the same template as is natively in Visual Studio 2015.</Description>
+    <MoreInfo>https://richnewman.wordpress.com/2017/05/09/html-application-with-typescript-project-template-for-visual-studio-2017/</MoreInfo>
     <License>Resources\LICENSE</License>
     <Icon>Resources\TSApplication.ico</Icon>
     <Tags>TypeScript</Tags>
