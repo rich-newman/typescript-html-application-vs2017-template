@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
-	<Metadata>
-		<Identity Id="bf5fe51b-621f-4f83-9e30-59ac45da0494" Version="2.0" Language="en-US" Publisher="Rich Newman" />
-		<DisplayName>TypeScript HTML Application Template</DisplayName>
-		<Description xml:space="preserve">Provides a project template for an HTML application with TypeScript.  This is the same template as is natively in Visual Studio 2015.</Description>
-		<MoreInfo>https://richnewman.wordpress.com/2017/05/09/html-application-with-typescript-project-template-for-visual-studio-2017/</MoreInfo>
-		<License>Resources\LICENSE</License>
-		<Icon>Resources\TSApplication.ico</Icon>
-		<Tags>TypeScript</Tags>
-	</Metadata>
-	<Installation>
-		<InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0,17.0)" />
-	</Installation>
-	<Dependencies>
-		<Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.6.1,)" />
-	</Dependencies>
-	<Assets>
-		<Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\HTMLApplicationWithTypeScript.zip" />
-	</Assets>
-	<Prerequisites>
-		<Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,17.0)" DisplayName="Visual Studio core editor" />
-	</Prerequisites>
+    <Metadata>
+        <Identity Id="bf5fe51b-621f-4f83-9e30-59ac45da0494" Version="2.1" Language="en-US" Publisher="Rich Newman" />
+        <DisplayName>TypeScript HTML Application Template</DisplayName>
+        <Description xml:space="preserve">Provides a project template for an application with an HTML file, a TypeScript file and a CSS file.</Description>
+        <MoreInfo>https://github.com/rich-newman/typescript-html-application-vs2017-template</MoreInfo>
+        <License>Resources\LICENSE</License>
+        <Icon>Resources\TSApplication.ico</Icon>
+        <Tags>TypeScript</Tags>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0,17.0)" />
+    </Installation>
+    <Dependencies>
+        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.6.1,)" />
+    </Dependencies>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\HTMLApplicationWithTypeScript.zip" />
+    </Assets>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,17.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
 </PackageManifest>
