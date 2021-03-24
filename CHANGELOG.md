@@ -9,6 +9,7 @@ on the official Visual Studio extension gallery.
 
 - Uses latest available version of TypeScript, rather than using 2.1 and asking for an upgrade every time
 - Better descriptions, making it clearer what this is.  Previous descriptions referred prominently to Visual Studio 2015, which doesn't make much sense in 2021.
+- Update code so it lints with TypeScript Analyzer.
 
 ## 2.0
 
