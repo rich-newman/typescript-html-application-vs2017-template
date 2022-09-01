@@ -3,6 +3,12 @@
 These are the changes to each version that have been released
 on the official Visual Studio extension gallery.
 
+## 2.2
+
+**2022-09-01**
+
+- Upgraded to work in Visual Studio 2022 as well as Visual Studio 2017 and Visual Studio 2019.
+
 ## 2.1
 
 **2021-03-24**
