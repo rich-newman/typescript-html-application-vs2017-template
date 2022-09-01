@@ -3,6 +3,12 @@
 These are the changes to each version that have been released
 on the official Visual Studio extension gallery.
 
+## 2.3
+
+**2022-09-01**
+
+- Disambiguate setInterval.  Previously VS could get confused if there was anything node-related in the vicinity of the project, and refuse to compile because it thought we were using a node function.
+
 ## 2.2
 
 **2022-09-01**
