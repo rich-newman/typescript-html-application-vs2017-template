@@ -3,6 +3,12 @@
 These are the changes to each version that have been released
 on the official Visual Studio extension gallery.
 
+## 2.4
+
+**2022-09-01**
+
+- Previous release not tested adequately: rolling back to v2.1.
+
 ## 2.3
 
 **2022-09-01**

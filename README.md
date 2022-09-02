@@ -1,5 +1,5 @@
 # TypeScript HTML Application Template
-A template for new projects in Visual Studio 2017, Visual Studio 2019 and Visual Studio 2022 that creates an HTML application with TypeScript.  This is the same template that that used to be in Visual Studio 2015.
+A template for new projects in Visual Studio 2017 and Visual Studio 2019 that creates an HTML application with TypeScript.  This is the same template that that used to be in Visual Studio 2015.
 
 The project contains an HTML file, a CSS file and a TypeScript file with some basic sample code.
 
@@ -9,7 +9,7 @@ The built template can be installed from [Visual Studio Marketplace](https://mar
 
 In the Visual Studio 2017 New Project dialog the template will appear under 'TypeScript' under 'Other Languages' assuming the correct dependencies are installed, see below.
 
-In the Visual Studio 2019 and Visual Studio 2022 New Project dialog the easiest way to find it is to filter by Language=TypeScript, and then it will appear at or towards the bottom of the list.  In both cases it appears as 'HTML Application with TypeScript'.
+In the Visual Studio 2019 New Project dialog the easiest way to find it is to filter by Language=TypeScript, and then it will appear at or towards the bottom of the list.  In both cases it appears as 'HTML Application with TypeScript'.
 
 When started with F5 it will start a web server, by default IIS Express, and show a ticking time in the selected web browser.  The code to show the time is in a TypeScript class.  If the browser is Internet Explorer, Edge or Chrome the code will break at breakpoints directly in Visual Studio, and the usual Visual Studio debug tools and windows will be available.  Note that if you are using Chrome you may need to hit refresh in the browser for breakpoints in startup code to be hit.
 
