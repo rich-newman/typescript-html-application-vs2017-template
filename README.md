@@ -1,5 +1,5 @@
 # TypeScript HTML Application Template
-A template for new projects in Visual Studio 2017 and Visual Studio 2019 that creates an HTML application with TypeScript.  This is the same template that that used to be in Visual Studio 2015.
+A template for new projects in Visual Studio 2017 and Visual Studio 2019 that creates an HTML application with TypeScript.  This is the same template that that used to be in Visual Studio 2015.  A [separate template is available for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=Rich-Newman.TypeScriptHTMLApplicationTemplate2022).
 
 The project contains an HTML file, a CSS file and a TypeScript file with some basic sample code.
 
