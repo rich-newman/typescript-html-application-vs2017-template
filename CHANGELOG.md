@@ -3,6 +3,14 @@
 These are the changes to each version that have been released
 on the official Visual Studio extension gallery.
 
+## 2.5
+
+**2022-09-22**
+
+- Disambiguate setInterval.  Previously VS could get confused if there was anything node-related in the vicinity of the project, and refuse to compile because it thought we were using a node function.
+- Run code through Prettier so the [TypeScript Analyzer](https://marketplace.visualstudio.com/items?itemName=RichNewman.TypeScriptAnalyzerEslintPrettier2019) doesn't show warnings.
+- Update text on [Marketplace entry](https://marketplace.visualstudio.com/items?itemName=Rich-Newman.TypeScriptHTMLApplicationTemplate) on release to reference the new version of this extension for [Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=Rich-Newman.TypeScriptHTMLApplicationTemplate2022)
+
 ## 2.4
 
 **2022-09-01**
